@@ -8,6 +8,6 @@ Plots the sample mean against the sample size N for each distribution.
 
 Plots the distributions of all sample means together as a histrogram.
 
-# PUI_HW3-1_ErwanLeCun.ipynb:
+# PUI_HW3-2_ErwanLeCun.ipynb:
 
 Conducts a Z test and Chi Square test on given data. 
