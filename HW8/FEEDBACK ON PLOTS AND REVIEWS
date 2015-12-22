@@ -1,0 +1,57 @@
+good reviews, though a bit generous, addressing all the key points  10/10
+
+NOTES ON YOUR PLOT
+===================
+
+thick lines are not necessary and cause ambiguity when thy overlap
+
+the datapoints are sparse: the plot could be compressed on the x axis and this would aid comparison
+
+tick labels are on he small side, but not terribly small 
+
+color blindness compliant
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+================================
+
+madinghehe
+===========
+
+typical plot in finance: complies to tufte's idea of small multiples
+nice seaborn plot that conveys a lot of info at once.
+
+
+x, y labels should be spelled out, not a variable name with an underscore
+
+labels too small
+
+the fit line cannot be seen over the points. consider a different color or remove the points inside the contours (which are redundant and blended anyways)
+
+
+
+
+svarmit
+========
+
+the 3d as usual makes comparison difficult. additionally 3d bind distort the perception: we should compare differences in height but we are left with the impression given byt he difference in volumes
+
+the color is redundant with the year 
+
+tick labels too small
+
+the cause of dheath axis labels are offset with respect to the variable
+
+typo in the title (parenthesis close that was never open)
+
+
+
+YiningFan
+=========
+units missing in labels
+
+tick labels too small
+
+lines unexplained
+
+color indistinguishable for the 10% of the male population that is color blind
